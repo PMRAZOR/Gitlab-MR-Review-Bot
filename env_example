@@ -1,0 +1,4 @@
+GITLAB_TOKEN=깃랩토큰
+GITLAB_URL=https://gitlab.com
+GEMINI_API_KEY=잼민이키
+PORT=5000
